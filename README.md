@@ -1,7 +1,5 @@
 # Data Science Capstone
-This repository contains my final work on the Data Science Capstone, from IBM
-
-The main work in this repository is an analysis of Covid-19 cases in Brazil per region. 
+This repository contains my final work on the Data Science Capstone, from IBM. The main work in this repository is an analysis of Covid-19 cases in Brazil per region. 
 
 - [This file](https://github.com/marcellongvb/datasciencecapstone/blob/master/Introduction%20and%20data%20description.pdf) contains an introduction about the study and the data in use.
 
